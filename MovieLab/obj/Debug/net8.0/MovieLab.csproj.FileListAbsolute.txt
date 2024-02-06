@@ -1,0 +1,15 @@
+C:\Users\vicpb\Downloads\MovieLab\MovieLab\obj\Debug\net8.0\MovieLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicpb\Downloads\MovieLab\MovieLab\obj\Debug\net8.0\MovieLab.AssemblyInfoInputs.cache
+C:\Users\vicpb\Downloads\MovieLab\MovieLab\obj\Debug\net8.0\MovieLab.AssemblyInfo.cs
+C:\Users\vicpb\Downloads\MovieLab\MovieLab\obj\Debug\net8.0\MovieLab.csproj.CoreCompileInputs.cache
+C:\Users\vicpb\Downloads\MovieLab\MovieLab\obj\Debug\net8.0\MovieLab.sourcelink.json
+C:\Users\vicpb\Downloads\MovieLab\MovieLab\bin\Debug\net8.0\MovieLab.exe
+C:\Users\vicpb\Downloads\MovieLab\MovieLab\bin\Debug\net8.0\MovieLab.deps.json
+C:\Users\vicpb\Downloads\MovieLab\MovieLab\bin\Debug\net8.0\MovieLab.runtimeconfig.json
+C:\Users\vicpb\Downloads\MovieLab\MovieLab\bin\Debug\net8.0\MovieLab.dll
+C:\Users\vicpb\Downloads\MovieLab\MovieLab\bin\Debug\net8.0\MovieLab.pdb
+C:\Users\vicpb\Downloads\MovieLab\MovieLab\obj\Debug\net8.0\MovieLab.dll
+C:\Users\vicpb\Downloads\MovieLab\MovieLab\obj\Debug\net8.0\refint\MovieLab.dll
+C:\Users\vicpb\Downloads\MovieLab\MovieLab\obj\Debug\net8.0\MovieLab.pdb
+C:\Users\vicpb\Downloads\MovieLab\MovieLab\obj\Debug\net8.0\MovieLab.genruntimeconfig.cache
+C:\Users\vicpb\Downloads\MovieLab\MovieLab\obj\Debug\net8.0\ref\MovieLab.dll
